@@ -23,23 +23,42 @@ Occlusions.
 Superimposition (to simulate the effect of text being visible from the other side of a page).
 File descriptions
 trainining-a.zip - images of training set a
+
 trainining-b.zip - images of training set b
+
 trainining-c.zip - images of training set c
+
 trainining-d.zip - images of training set d
+
 trainining-e.zip - images of training set e
+
 testing-a.zip - images of testing set a
+
 testing-b.zip - images of testing set b
+
 testing-c.zip - images of testing set c
+
 testing-d.zip - images of testing set d
+
 testing-e.zip - images of testing set e
+
 testing-f.zip - images of testing set f
+
 testing-auga.zip - augmented images from testing set a
+
 testing-augc.zip - augmented images from testing set c
+
 trainining-a.csv - label for training set a
+
 trainining-b.csv - label for training set b
+
 trainining-c.csv - label for training set c
+
 trainining-d.csv - label for training set d
+
 trainining-e.csv - label for training set e
+
 sampleSubmission.csv - a sample submission file in the correct format
+
 UPDATE: The testing set consisted some illegible and ambiguous digits. These digits are replaced by legible digits of the same label. The new testing digits along with old legible ones are placed in testing-all-corrected.zip
 
