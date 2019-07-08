@@ -1,4 +1,4 @@
-# Bangla-Digit-Recognition-using-CNN
+# Bangla Handwritten Digit Recognition using CNN
 
 
 
