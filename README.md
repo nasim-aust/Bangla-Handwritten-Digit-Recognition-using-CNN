@@ -1,7 +1,7 @@
 # Bangla-Digit-Recognition-using-CNN
 
 
-You can find the leaderboard here: https://www.kaggle.com/c/numta/leaderboard
+
 
 ### Problem Statement:
 Currently, natural language processing (NLP) research is developing rapidly due to the rise of artificial intelligence (AI). One of the key topics of NLP is optical character recognition (OCR). To build an OCR in Bengali language, digit classification provides a convenient starting point. We have accumulated a large dataset (85,000+) of Bengali digits (NumtaDB) which can be used by researchers for benchmarking their algorithm.
